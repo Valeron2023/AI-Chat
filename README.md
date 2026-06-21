@@ -1,6 +1,6 @@
 # ChatGPT Clone — Full Stack Project
 
-GitHub Repository: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+GitHub Repository: https://github.com/Valeron2023/AI-Chat
 
 ## Stack
 - **Backend:** Python FastAPI
